@@ -1846,9 +1846,9 @@ input, select, textarea {
     width: 400%;
 }
 
-.align-left
-{
+.align-left {
     text-align: left;
+    margin: auto;
 }
 
 
