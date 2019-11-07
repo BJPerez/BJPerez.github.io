@@ -1852,6 +1852,10 @@ input, select, textarea {
     width: 50%;
 }
 
+.contact-title {
+    margin-bottom: 0.5 em;
+}
+
 
 .technical-subtitle {
     margin-bottom: 0.3em;
