@@ -1797,6 +1797,10 @@ input, select, textarea {
         text-align: left;
     }
 
+    .list-li {
+        margin-bottom: 0.2em;
+    }
+
 	ul {
 		list-style: none;
 		padding-left: 1em;
