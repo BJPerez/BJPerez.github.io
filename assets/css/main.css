@@ -1807,7 +1807,7 @@ input, select, textarea {
         }
 
         ul.alt li {
-            border-bottom: 0.5em solid grey;
+            border-bottom: 0.01em solid grey;
         }
 
 	ol {
