@@ -1806,10 +1806,6 @@ input, select, textarea {
             padding-left: 0.5em;
         }
 
-        ul.alt li {
-            border-bottom: 0.01em solid grey;
-        }
-
 	ol {
 		list-style: decimal;
 		padding-left: 1.25em;
