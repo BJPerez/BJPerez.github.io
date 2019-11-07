@@ -1796,7 +1796,7 @@ input, select, textarea {
 	ul {
 		list-style: none;
 		padding-left: 1em;
-color: green;
+        text-align: left;
 	}
 
         ul li {
