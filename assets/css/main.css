@@ -1796,6 +1796,7 @@ input, select, textarea {
     .technical-list {
         text-align: left;
         margin-bottom: 1em;
+        color:blue;
     }
 
     .list-li {
