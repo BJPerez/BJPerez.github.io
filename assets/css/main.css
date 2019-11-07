@@ -1798,9 +1798,10 @@ input, select, textarea {
 		padding-left: 1em;
 	}
 
-		ul li {
-			padding-left: 0.5em;
-		}
+        ul li {
+            padding-left: 0.5em;
+            color: green;
+        }
 
 	ol {
 		list-style: decimal;
