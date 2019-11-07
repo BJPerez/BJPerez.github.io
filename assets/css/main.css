@@ -1802,15 +1802,7 @@ input, select, textarea {
         margin-bottom: 0.4em;
     }
 
-    .fas fa-plus-circle {
-        margin-right: 3.2em;
-    }
-
-    .fab fa-slack-hash {
-        margin-right: 3.2em;
-    }
-
-    .fab fa-java {
+    .test {
         margin-right: 3.2em;
     }
 
