@@ -1837,13 +1837,11 @@ input, select, textarea {
 #ico10 {
     margin-right: 10px;
     text-align: left;
-    width: 200%;
 }
 
 #ico11 {
     margin-right: 10px;
     text-align: left;
-    width: 400%;
 }
 
 .align-left {
@@ -1854,6 +1852,7 @@ input, select, textarea {
 
 .technical-subtitle {
     margin-bottom: 0.3em;
+    width: 30%;
 }
 
 	ul {
