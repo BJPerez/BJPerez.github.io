@@ -1802,9 +1802,11 @@ input, select, textarea {
         margin-bottom: 0.4em;
     }
 
-i.fas fa-plus-circle {
-    margin-right: 10px;
-}
+    #test {
+        margin-right: 10px;
+    }
+
+
 
 .technical-subtitle {
     margin-bottom: 0.3em;
