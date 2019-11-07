@@ -1802,9 +1802,9 @@ input, select, textarea {
         margin-bottom: 0.4em;
     }
 
-    .test {
-        margin-right: 3.2em;
-    }
+i {
+    margin-right: 100px
+}
 
 .technical-subtitle {
     margin-bottom: 0.3em;
