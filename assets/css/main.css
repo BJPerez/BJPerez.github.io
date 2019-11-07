@@ -1801,6 +1801,11 @@ input, select, textarea {
         margin-bottom: 0.5em;
     }
 
+    .technical-subtitle 
+    {
+        margin-top: 0em;
+    }
+
 	ul {
 		list-style: none;
 		padding-left: 1em;
@@ -1942,6 +1947,8 @@ input, select, textarea {
 		table tfoot {
 			background: #eee;
 		}
+
+
 
 /* Button */
 
