@@ -1826,8 +1826,13 @@ input, select, textarea {
     margin-right: 10px;
 }
 
+#ico7 {
+    margin-right: 10px;
+}
 
-
+#ico8 {
+    margin-right: 10px;
+}
 
 .technical-subtitle {
     margin-bottom: 0.3em;
@@ -1852,6 +1857,10 @@ input, select, textarea {
 		}
 
 /* Icons */
+
+    .contact-p {
+        text-align: left;
+    }
 
 	ul.icons {
 		cursor: default;
