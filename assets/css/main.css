@@ -1804,7 +1804,10 @@ input, select, textarea {
 
         ul li {
             padding-left: 0.5em;
-            border-bottom: 3em solid red;
+        }
+
+        ul.alt li {
+            border-bottom: 0.5em solid grey;
         }
 
 	ol {
