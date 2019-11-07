@@ -1847,12 +1847,12 @@ input, select, textarea {
 .align-left {
     text-align: left;
     margin: auto;
+    width: 30%;
 }
 
 
 .technical-subtitle {
     margin-bottom: 0.3em;
-    width: 30%;
 }
 
 	ul {
