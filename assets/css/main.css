@@ -2753,6 +2753,11 @@ input[type="button"],
 				font-size: 14pt;
 			}
 
+        .project-container {
+            display: flex;
+            flex-direction: column;
+        }
+
 			h2 {
 				font-size: 1.5em;
 				letter-spacing: 0;
