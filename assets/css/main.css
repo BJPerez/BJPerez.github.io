@@ -1826,37 +1826,6 @@ input, select, textarea {
     margin-right: 10px;
 }
 
-#ico7 {
-    margin-right: 10px;
-}
-
-#ico8 {
-    margin-right: 10px;
-}
-
-#ico10 {
-    margin-right: 10px;
-    text-align: left;
-    font-size: 20px;
-}
-
-#ico11 {
-    margin-right: 10px;
-    text-align: left;
-    font-size: 20px;
-}
-
-.align-left {
-    text-align: left;
-    margin: auto;
-    width: 50%;
-}
-
-.contact-title {
-    margin-bottom: 0.5 em;
-}
-
-
 .technical-subtitle {
     margin-bottom: 0.3em;
 }
