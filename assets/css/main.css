@@ -1827,30 +1827,41 @@ input, select, textarea {
 }
 
 #ico7 {
-    margin-right: 10px;
+    margin-right: 0.5em;
+    font-size: 2.5em;
 }
 
 #ico8 {
-    margin-right: 10px;
+    font-size: 2.5em;
 }
 
-.contact-list {
-    display: block;
-    text-align: center;
-    text-decoration: none;
-    vertical-align: middle;
-    list-style: none;
-    display: inline-block;
+#contact header
+{
+    margin-bottom: 0.5em;
+}
+
+.first-p
+{
+    margin-bottom: 0.8em;
+}
+
+.link-title {
+    margin-bottom: 0.6em;
 }
 
 .technical-subtitle {
     margin-bottom: 0.3em;
 }
 
-	ul {
-		list-style: none;
-		padding-left: 1em;
-	}
+.no_underline_link
+{
+    border-bottom: none;
+}
+
+ul {
+    list-style: none;
+    padding-left: 1em;
+}
 
         ul li {
             padding-left: 0.5em;
