@@ -1840,6 +1840,11 @@ input, select, textarea {
     margin-bottom: 0.5em;
 }
 
+.desc {
+    text-align: left;
+    font-weight: bold;
+}
+
 .first-p
 {
     margin-bottom: 0.8em;
