@@ -2680,10 +2680,12 @@ ul {
         list-style-type: circle;
         margin-bottom: 0.5em;
     }
+
     .project-container
     {
         display: flex;
         flex-direction: row;
+        width: 100%;
     }
 
     .project-container img {
@@ -2691,6 +2693,11 @@ ul {
         margin-right: 1.5em;
         border-radius: 0.5em;
     }
+
+.portfolio-desc {
+    flex-grow: 1;
+}
+
 
 input[type="submit"],
 input[type="reset"],
