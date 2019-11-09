@@ -1835,6 +1835,10 @@ input, select, textarea {
     font-size: 2.5em;
 }
 
+#ico14 {
+    margin-right: 0.5em;
+}
+
 #contact header
 {
     margin-bottom: 0.5em;
@@ -2696,6 +2700,7 @@ ul {
 
 .portfolio-desc {
     flex-grow: 1;
+    margin-right: 65px;
 }
 
 
