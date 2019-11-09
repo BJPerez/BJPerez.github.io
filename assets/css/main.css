@@ -2680,22 +2680,16 @@ ul {
         list-style-type: circle;
         margin-bottom: 0.5em;
     }
-
-    #portfolio img
-    {
-        border-radius: 0.5em;
-    }
-
     .project-container
     {
         display: flex;
         flex-direction: row;
     }
 
-    .project-container img
-    {
-        width: 16em;
+    .project-container img {
+        width: 18em;
         margin-right: 1.5em;
+        border-radius: 0.5em;
     }
 
 input[type="submit"],
