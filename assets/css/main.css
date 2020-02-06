@@ -2693,14 +2693,14 @@ ul {
     }
 
     .project-container img {
-        width: 18em;
+        width: 20em;
         margin-right: 1.5em;
         border-radius: 0.5em;
     }
 
 .portfolio-desc {
     flex-grow: 1;
-    margin-right: 65px;
+    margin-right: 60px;
 }
 
 
